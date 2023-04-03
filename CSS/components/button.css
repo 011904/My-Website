@@ -1,0 +1,13 @@
+.button{
+	border-radius: 8px;
+	background: black;
+	color: white;
+	font-family:'Roboto', sans-serif;
+	padding: 12px 22px;
+	font-weight: bold;
+}
+.button_form{
+	background: black;
+	color: white;
+	padding: 10px 20px;
+}
